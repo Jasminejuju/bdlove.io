@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Allura';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/allura-v15-latin-regular.eot');
+    src: url('../fonts/allura-v15-latin-regular.eot?#iefix') format('embedded-opentype'),
+}
+
+.hb2 {
+    font-family: 'Allura';
+    font-style: italic;
+    color: rgb(110, 102, 161);
+    text-align: center;
+    font-size: 60px;
+    cursor: pointer;
+    text-decoration: none;
+    position: absolute;
+    left: 50px;
+    top: 300px;
+    }
+.hb1{
+    text-align: center;   
+    background: url(Images/istockphoto-1136810581-612x612.jpg);
+    background-size: cover;
+    height: 800px;
+    position: relative;
+}
+.hb1 :hover{
+    color:rgb(70, 63, 109);
+    }
+.image{
+    text-align: center;
+    background-image: url(Images/backgroundimg.jpg);
+}
+
